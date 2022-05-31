@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqKataTests", "LinqKataTests\LinqKataTests.csproj", "{D2185EFD-30AE-4C19-9277-6178679B7063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqKata", "LinqKata\LinqKata.csproj", "{BB8F56B4-995C-49E6-A245-F2FE0E653BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2185EFD-30AE-4C19-9277-6178679B7063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2185EFD-30AE-4C19-9277-6178679B7063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2185EFD-30AE-4C19-9277-6178679B7063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2185EFD-30AE-4C19-9277-6178679B7063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8F56B4-995C-49E6-A245-F2FE0E653BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8F56B4-995C-49E6-A245-F2FE0E653BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8F56B4-995C-49E6-A245-F2FE0E653BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8F56B4-995C-49E6-A245-F2FE0E653BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
